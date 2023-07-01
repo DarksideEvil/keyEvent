@@ -1,2 +1,3 @@
 # keyEvent
-simple mini project
+simple mini project.
+you can test it by pressing keyboard buttons!
